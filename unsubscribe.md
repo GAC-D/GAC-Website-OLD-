@@ -8,7 +8,7 @@
 
 # We're sad to see you go!
 
-<br><br>
+<br>
 
 ## To unsubsribe please do the following:
 
