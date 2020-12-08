@@ -1,3 +1,11 @@
+<nav>
+  <ul>
+    <a href='https://gac-d.github.io/GAC-Website/'>Home</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gac-d.github.io/GAC-Website/newsletter'>Newsletter</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gac-d.github.io/GAC-Website/staff-team'>Staff Team</a>
+  </ul>
+</nav>
+
 # About Our Newsletter
 
 
@@ -9,6 +17,6 @@
 
 ### If you would like to sign up please do the following:
  - Join **[Our Discord](https://discord.gg/t3xqmaC)**
- - Run the command ```?newsletter <your email>``` in #newsletter
+ - Run the command ```coming soon```
  
 ###### Signed up and want to unsubscribe? Please go to **[Unsubscribe](https://gac-d.github.io/GAC-Website/unsubscribe)** and follow what it says.
