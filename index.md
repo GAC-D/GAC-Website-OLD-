@@ -10,7 +10,7 @@
 
 We are a medium sized advertising server that would love to have you!
 
-We tons of channels for all different kinds of things we also do giveaways!
+We tons of channels for all different kinds of things. We also do giveaways!
 
 <br>
 
