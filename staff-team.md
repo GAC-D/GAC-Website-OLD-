@@ -6,7 +6,7 @@
   </ul>
 </nav>
 
-# About our staff team
+# About Our Staff Team
 
 We are a small staff team from all over the world!
 We will try to get back to you with all your issues as soon as we can.
