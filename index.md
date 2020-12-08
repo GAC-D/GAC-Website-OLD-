@@ -1,8 +1,8 @@
 <nav>
   <ul>
-    <a href='https://gac-d.github.io/GAC-Website/'>Home</a>
-    <a href='https://gac-d.github.io/GAC-Website/newsletter'>Newsletter</a>
-    <a href='https://gac-d.github.io/GAC-Website/staff-team'>Staff Team</a>
+    <li><a href='https://gac-d.github.io/GAC-Website/'>Home</a></li>
+    <li><a href='https://gac-d.github.io/GAC-Website/newsletter'>Newsletter</a></li>
+    <li><a href='https://gac-d.github.io/GAC-Website/staff-team'>Staff Team</a></li>
   </ul>
 </nav>
 
