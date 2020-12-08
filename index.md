@@ -1,3 +1,11 @@
+<nav>
+  <ul>
+    <a href='https://gac-d.github.io/GAC-Website/'>Home</a>
+    <a href='https://gac-d.github.io/GAC-Website/newsletter'>Newsletter</a>
+    <a href='https://gac-d.github.io/GAC-Website/staff-team'>Staff Team</a>
+  </ul>
+</nav>
+
 ## Hello, We are GAC (Gamers Advertising Center)!
 
 We are a medium sized advertising server that would love to have you!
