@@ -1,4 +1,4 @@
-## Hello, We Are GAC (Gamers Advertising Center)!
+## Hello, We are GAC (Gamers Advertising Center)!
 
 We are a medium sized advertising server that would love to have you!
 
